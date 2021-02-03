@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="submit">Submit</string>
+    <string name="title">Calculator</string>
+    <string name="first_hint">First number</string>
+    <string name="second_hint">Second number</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_multiply">x</string>
+    <string name="button_divide">/</string>
+    <string name="result">Result</string>
+    <string name="button_plus_function">ButtonPlus</string>
+    <string name="button_minus_function">ButtonMinus</string>
+    <string name="button_multiply_function">ButtonMultiply</string>
+    <string name="button_division_function">ButtonDivision</string>
+</resources>
