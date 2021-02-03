@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="title">Unit Converter</string>
+    <string name="title_for_number">Enter in kilograms</string>
+    <string name="pounds">Pounds:</string>
+    <string name="btn_convert">Convert</string>
+</resources>
