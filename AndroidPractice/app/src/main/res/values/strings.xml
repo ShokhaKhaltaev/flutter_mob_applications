@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndroidPractice</string>
+    <string name="btn_first_name">Change</string>
+    <string name="greeting">Hello there!</string>
+    <string name="login">Authorization</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_name">Sign in</string>
+    <string name="btn_2_name">Finish</string>
+    <string name="first_fragment_label">fragment</string>
+    <string name="name_hint">Name</string>
+    <string name="name_hint_2">Name :</string>
+    <string name="username">Username</string>
+    <string name="age_hint">Age</string>
+    <string name="uni_hint">University</string>
+    <string name="personal_info">Information</string>
+    <string name="name_desc">Name_icon</string>
+    <string name="username_desc">Username_icon</string>
+    <string name="age_desc">Age_icon</string>
+    <string name="uni_desc">University_icon</string>
+    <string name="personal_info_for_3_act">Personal Information</string>
+    <string name="username_2">Username :</string>
+    <string name="age_hint_2">Age :</string>
+    <string name="email_hint_2">Email :</string>
+    <string name="uni_hint_2">University :</string>
+    <string name="congratulation">Congratulations!</string>
+    <string name="rate_value">Rate: </string>
+</resources>

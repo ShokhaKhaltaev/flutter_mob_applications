@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#353E4F"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="211dp"
+            app:srcCompat="@drawable/login"
+            android:paddingBottom="40sp"
+            android:paddingTop="70sp"
+            android:contentDescription="TODO" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="monospace"
+            android:gravity="center"
+            android:text="@string/login"
+            android:textColor="#AAAAAA"
+            android:textSize="25sp" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40sp"
+            android:layout_marginTop="20sp"
+            android:layout_marginRight="40sp"
+            android:background="@drawable/fields"
+            android:ems="10"
+            android:fontFamily="monospace"
+            android:hint="@string/email_hint"
+            android:inputType="textEmailAddress"
+            android:padding="13sp"
+            android:textColor="@color/purple_500"
+            android:textSize="25sp"
+            android:importantForAutofill="no" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40sp"
+            android:layout_marginTop="20sp"
+            android:layout_marginRight="40sp"
+            android:layout_marginBottom="20sp"
+            android:background="@drawable/fields"
+            android:ems="10"
+            android:fontFamily="monospace"
+            android:hint="@string/password_hint"
+            android:padding="13sp"
+            android:textColor="@color/purple_500"
+            android:textSize="25sp"
+            android:inputType="textPassword"
+            android:importantForAutofill="no" />
+
+        <Button
+            android:id="@+id/btn_sign"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="120sp"
+            android:layout_marginRight="120sp"
+            android:background="@drawable/button"
+            android:fontFamily="monospace"
+            android:text="@string/btn_name"
+            android:textSize="18sp"
+            app:backgroundTint="#99462a" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
