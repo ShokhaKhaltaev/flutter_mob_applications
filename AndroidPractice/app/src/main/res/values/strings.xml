@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidPractice</string>
+    <string name="app_name">YAKO</string>
     <string name="btn_first_name">Change</string>
     <string name="greeting">Hello there!</string>
     <string name="login">Authorization</string>
