@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragmentPractice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="replySally">To Sally</string>
+    <string name="replyTim">To Tim</string>
+    <string name="Reply">Reply</string>
+    <string name="text_hint">Write your message</string>
+    <string name="shopName">AutoShop</string>
+    <string name="shopQuestion">What car do you want to purchase?</string>
+    <string name="textButton">Buy</string>
+    <string name="Ford">Ford</string>
+</resources>
